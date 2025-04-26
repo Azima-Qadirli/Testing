@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E}|TestNinja.UnitTest\\TestNinja.UnitTest.csproj|c:\\users\\test\\downloads\\source-code-starter\u002B(1)\\source-code-starter\\testninja\\testninja.unittest\\reservationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E}|TestNinja.UnitTest\\TestNinja.UnitTest.csproj|solutionrelative:testninja.unittest\\reservationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|c:\\users\\test\\downloads\\source-code-starter\u002B(1)\\source-code-starter\\testninja\\testninja\\fundamentals\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7328740E-4B78-464F-8352-65D887F2145F}|TestNinja\\TestNinja.csproj|solutionrelative:testninja\\fundamentals\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
+              "RelativeDocumentMoniker": "TestNinja\\Fundamentals\\Reservation.cs",
+              "ToolTip": "C:\\Users\\test\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\TestNinja\\Fundamentals\\Reservation.cs",
+              "RelativeToolTip": "TestNinja\\Fundamentals\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:51:25.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationTests.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\TestNinja.UnitTest\\ReservationTests.cs",
+              "RelativeDocumentMoniker": "TestNinja.UnitTest\\ReservationTests.cs",
+              "ToolTip": "C:\\Users\\test\\Downloads\\source-code-starter\u002B(1)\\source-code-starter\\TestNinja\\TestNinja.UnitTest\\ReservationTests.cs*",
+              "RelativeToolTip": "TestNinja.UnitTest\\ReservationTests.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:32:02.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
