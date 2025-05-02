@@ -3,5 +3,11 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.ReservationTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.MathTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.HtmlFormatterTests.FormatAsBold_WhenCalled_ShouldEncloseTheStringWithStrongElement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.CustomerControllerTests.GetCustomer_IdIsZero_ReturnNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.CustomerControllerTests.GetCustomer_IdIsNotZero_ReturnOk&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.ErrorLoggerTests.Log_WhenCalled_SetTheLastErrorProperty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.ErrorLoggerTests.Log_InvalidError_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.ErrorLoggerTests.Log_ValidError_RaiseErrorLoggedEvent&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
