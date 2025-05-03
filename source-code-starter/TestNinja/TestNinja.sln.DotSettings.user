@@ -9,5 +9,13 @@
     &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.ErrorLoggerTests.Log_WhenCalled_SetTheLastErrorProperty&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.ErrorLoggerTests.Log_InvalidError_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.ErrorLoggerTests.Log_ValidError_RaiseErrorLoggedEvent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.FizzBuzzTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.DemeritPointsCalculatorTests.CalculateDemeritPoints_InvalidError_ThrowsArgumentException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.DemeritPointsCalculatorTests.DemeritPointsCalculator_InvalidError_ThrowsArgumentException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.DemeritPointsCalculatorTests.DemeritPointsCalculator_SpeedIsLessThanOrEqualToLimit_ReturnsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.DemeritPointsCalculatorTests.DemeritPointsCalculator_SpeedIsGreaterThanLimit_ReturnsDemeritPoints&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.StackTests.Stack_ObjectIsNull_ThrowsArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.StackTests.Push_ObjectIsNotNull_AddingObject&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.StackTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
