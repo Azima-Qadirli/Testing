@@ -17,5 +17,9 @@
     &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.StackTests.Stack_ObjectIsNull_ThrowsArgumentNullException&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.StackTests.Push_ObjectIsNotNull_AddingObject&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.StackTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.Mocking.VideoServiceTests.ReadVideoTitle_EmptyFile_ReturnsError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.Mocking.OrderServiceTests.PlaceOrder_WhenCalled_StoreTheOrder&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.Mocking.ProductTests.GetPrice_GoldCustomer_Apply30PercentDiscount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::684CEE28-7EE3-4AFF-B748-5F5D9F8A1D2E::.NETFramework,Version=v4.7.2::TestNinja.UnitTest.Mocking.ProductTests.GetPrice_GoldCustomer_Apply30PercentDiscount2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

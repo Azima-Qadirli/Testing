@@ -60,3 +60,10 @@ C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja
 C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinj.232B0DDB.Up2Date
 C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.dll
 C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\obj\Debug\TestNinja.UnitTest.pdb
+C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\Moq.dll
+C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\test\OneDrive\Desktop\TestNinja\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
